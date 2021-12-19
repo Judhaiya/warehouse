@@ -1,5 +1,6 @@
+it is a basic crud app.
 In this crud app,
-what all I made use of
+I made use of
 1.es6,es5javascript
 2.react hooks
 3.destructuring
