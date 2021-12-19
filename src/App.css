@@ -1,0 +1,94 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    list-style-type: none;
+}
+body{
+    background-color:	#F5F5F5 ;
+    
+}
+input{
+border:none;
+outline:none;
+padding:0.2rem;
+margin-right:0.3rem ;
+}
+button{
+    border:none;
+    outline:none;
+    padding:3px;
+    background-color:#fff ;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.warehouse-wrapper{
+    width:100%;
+    max-width:1200px;
+    margin:0 auto;
+   display:flex;
+   align-items: center;
+   justify-content:center ;
+   margin-bottom: 1rem;
+}
+
+.filters{
+    margin-top:1rem;
+}
+
+
+
+.main-app{
+    display:flex;
+    justify-content: space-between;
+}
+.search-area{
+    margin-top:1rem;
+}
+.get-warehouse-by-search{
+    margin-top:1rem ;
+    margin-left:2rem;
+    
+}
+.search-bar{
+    padding:2rem;
+    background-color: #FFFACD;
+    margin-bottom: 1rem;
+}
+.filters{
+    background-color: #FFFACD;
+    padding:1rem;
+}
+.pagination{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    background-color:ivory;
+    padding:1rem;
+}
+
+.cluster-card{
+    
+    margin-top:0.5rem;
+    background-color:ivory;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding:1rem;
+}
+.city-wrapper{
+    background-color:ivory;
+    margin-top:1rem;
+    padding:1rem;
+}
+.Details{
+    width:500px;
+    height:200px;
+   
+    background-color:ivory;
+    padding:1rem;
+}
+.flex-center{
+    display:flex;
+    justify-content: center;
+    align-self: center;
+    
+}
+
+
+
