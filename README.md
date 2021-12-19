@@ -1,4 +1,4 @@
-it is a basic crud app.
+It is a basic crud app.
 In this crud app,
 I made use of
 1.es6,es5javascript
